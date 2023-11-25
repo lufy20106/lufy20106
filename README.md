@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on PokeGrinder-V2(python)<br><br>    🌱 I’m currently learning idk<br><br>    📫 How to reach me ytb20105@gmail.com<br><br>    ⚡ Fun fact Im dumb<br>
+<br><br>    🔭 I’m currently working on [PokeGrinder-V2(python)](https://github.com/lufy20106/PokeGrinder-V2-python)<br><br>    🌱 I’m currently learning idk<br><br>    📫 How to reach me ytb20105@gmail.com<br><br>    ⚡ Fun fact Im dumb<br>
 
 
 # 💻 Tech Stack:
