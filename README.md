@@ -1,5 +1,5 @@
 # 💫 About Me:
-📫 How to reach me ytb20105@gmail.com<br><br>    ⚡ Fun fact Im dumb<br>
+📫 How to reach me ytb20105@gmail.com<br><br>    🥴 Fun fact: **Im dumb**<br>
 
 
 ## 🌐 Socials:
