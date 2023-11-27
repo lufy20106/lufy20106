@@ -22,6 +22,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lufy20106&icon=3&color=3)](https://visitcount.itsvg.in)
+[![](![](https://komarev.com/ghpvc/?username=lufy20106))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
